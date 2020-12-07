@@ -2,10 +2,14 @@
 header {
     position: fixed;
     z-index: 1;
+    
 }
+
 
 body {
     background-image: url("https://www.zingerbug.com/Backgrounds/background_images/indigo_textured_rock_seamless_pattern.jpg");
+    border: tomato 25px;
+    
     
 }
 
@@ -13,3 +17,12 @@ body {
 .aboutme {
     margin-top: 150px;
 }
+
+.img-fluid {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* for contact.html */
