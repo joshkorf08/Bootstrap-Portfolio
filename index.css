@@ -6,10 +6,9 @@ header {
 }
 
 
+
 body {
     background-image: url("https://www.zingerbug.com/Backgrounds/background_images/indigo_textured_rock_seamless_pattern.jpg");
-    border: tomato 25px;
-    
     
 }
 
@@ -26,3 +25,15 @@ body {
 
 
 /* for contact.html */
+
+
+
+footer{ 
+    position: fixed;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+    background-color: rgb(67, 65, 65);
+    border-top: 5px rgb(38, 131, 123) solid;
+
+}
