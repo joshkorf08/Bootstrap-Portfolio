@@ -12,3 +12,8 @@ Basci Functions of the site
 
 Tools and effects used to create sitye.
 - Bootstrap front end framework was used for almost all style effects and buttons on the site.
+
+This site has been Update!
+- It now features links to my updated github and linkdin accounts.
+- A downloadable version of my Update resume.
+- A rewoking of my portfolio page to better suite the needs of this site. It now features screen shots of projects that I have completed, and one that I will continue developing with my group memebers.
