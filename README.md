@@ -19,3 +19,5 @@ This site has been Update!
 - A rewoking of my portfolio page to better suite the needs of this site. It now features screen shots of projects that I have completed, and one that I will continue developing with my group memebers.
 
 - Portfolio now has been updated to use react app.
+
+CD into src folder and npm start. Runs on local jhost 3000 now.
